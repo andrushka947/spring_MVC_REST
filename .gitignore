@@ -3,3 +3,5 @@
 target/
 out/
 spring_MVC_REST.iml
+src/main/java/spring/AppConfig.java
+classes/
