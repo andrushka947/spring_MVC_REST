@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+target/
+out/
+spring_MVC_REST.iml
